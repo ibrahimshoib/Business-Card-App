@@ -1,4 +1,6 @@
 # Business-Card-App
+<img src="Screenshot_20250611_160548.png" width="300"/>
+
 <h3>This basic app makes use of elementary concepts of app development, that are:</h3>
 1. Row, Column, and Box composables<br>
 2. Text composables<br>
